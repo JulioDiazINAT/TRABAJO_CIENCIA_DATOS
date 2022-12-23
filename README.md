@@ -25,7 +25,7 @@ Este nuevo dataset contiene nombre del departamento , latitud, longitud, cantida
 
 El procesamiento de los datos lo podemos encontrar en el archivo nombrado "Trabajo_Final_Streamlit.ipynb" en el cual se encuentra en notebook desarrollado.
 
-En el archivo "PROYECTOFINAL.py" se encuentra la app la cual tiene el siguiente link de deploy:
+En el archivo "PROYECTOFINAL.py" se encuentra la app la cual tiene el siguiente link de deploy:https://juliodiazinat-trabajo-ciencia-datos-pf-rfx3xw.streamlit.app/
 
 ----------------------------------
 
